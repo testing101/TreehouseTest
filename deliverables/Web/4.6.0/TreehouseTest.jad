@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: TreehouseTest
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 7686
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1284408779
+MIDlet-Jar-URL: TreehouseTest.jar
+RIM-COD-URL: TreehouseTest.cod
+RIM-COD-SHA1: e8 a5 fd 0d 80 60 8a e9 b3 35 37 ce f5 2c b1 2a 1b fe ee 54
+RIM-COD-Size: 3116
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: TreehouseTest
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
